@@ -4,11 +4,11 @@ Lines up frames between videos that are off slightly due to framerate, dropped/d
 Download link: https://github.com/pftq/Video-Frame-Sync/releases/tag/20261102
 
 You may also find these useful (one-click to download all [here](https://drive.google.com/drive/folders/1nvQFC5uwsZlf-82LuskCP-qut9xHw-lt?usp=sharing)):
-- Video Debanding (fixes quality issues with repeat re-processing/compression) https://github.com/pftq/Video-Debanding
-- Video Compare (to check export errors, differences, etc) https://github.com/pftq/Video-Compare
-- MP4 Audio Delay Fix (20ms delay at start of file) https://github.com/pftq/MP4-Audio-Delay-Fix
-- Video Color Match (correcting color grading drift) https://github.com/pftq/VideoColorMatch
-- Screencaps Generator (smart screencaps selection + gallery grid sheet) https://github.com/pftq/Screencaps-Generator
+- [Video Debanding](https://github.com/pftq/Video-Debanding) (fixes quality issues with repeat re-processing/compression)
+- [Video Compare](https://github.com/pftq/Video-Compare) (to check export errors, differences, etc)
+- [MP4 Audio Delay Fix](https://github.com/pftq/MP4-Audio-Delay-Fix) (20ms delay at start of file)
+- [Video Color Match](https://github.com/pftq/VideoColorMatch) (correcting color grading drift)
+- [Screencaps Generator](https://github.com/pftq/Screencaps-Generator) (smart screencaps selection + gallery grid sheet)
 
 This is a tool I built for myself after having to deal with versions of the same footage often being slightly out of sync due to different framerates or dropped/duplicate frames.  This handles footage that is the same except for differences in specific spots (edits).  It'll line up the rest of the frames so they're in sync again, and for any dropped frames, it'll interpolate between the two existing neighboring frames.  This is also useful for AI video generation services that supposedly let you edit footage but often gives you back footage with dropped/duplicate frames as well (Seedance, etc).
 
