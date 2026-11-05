@@ -7,6 +7,7 @@ You may also find these useful (one-click to download all [here](https://drive.g
 • [Video Compare](https://github.com/pftq/Video-Compare) (to check export errors, differences, etc)\
 • [MP4 Audio Delay Fix](https://github.com/pftq/MP4-Audio-Delay-Fix) (20ms delay at start of file)\
 • [Video Color Match](https://github.com/pftq/VideoColorMatch) (correcting color grading drift)\
+• [Video Splicer](https://github.com/pftq/Video-Splicer) (trim or join MP4s without re-encoding)\
 • [Screencaps Generator](https://github.com/pftq/Screencaps-Generator) (smart screencaps selection + gallery grid sheet)
 
 This is a tool I built for myself after having to deal with versions of the same footage often being slightly out of sync due to different framerates or dropped/duplicate frames.  This handles footage that is the same except for differences in specific spots (edits).  It'll line up the rest of the frames so they're in sync again, and for any dropped frames, it'll interpolate between the two existing neighboring frames.  This is also useful for AI video generation services that supposedly let you edit footage but often gives you back footage with dropped/duplicate frames as well (Seedance, etc).
