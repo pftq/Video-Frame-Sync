@@ -2,6 +2,7 @@
 Lines up frames between videos that are off slightly due to framerate, dropped/duplicated frames, etc.
 
 Download link: https://github.com/pftq/Video-Frame-Sync/releases/tag/20261102
+
 You may also find these useful:
 - Video Debanding (fixes quality issues with repeat re-processing/compression) https://github.com/pftq/Video-Debanding
 - Video Compare (to check export errors, differences, etc) https://github.com/pftq/Video-Compare
