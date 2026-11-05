@@ -3,7 +3,7 @@ Lines up frames between videos that are off slightly due to framerate, dropped/d
 
 Download link: https://github.com/pftq/Video-Frame-Sync/releases/tag/20261102
 
-You may also find these useful:
+You may also find these useful (one-click to download all [here](https://drive.google.com/drive/folders/1nvQFC5uwsZlf-82LuskCP-qut9xHw-lt?usp=sharing)):
 - Video Debanding (fixes quality issues with repeat re-processing/compression) https://github.com/pftq/Video-Debanding
 - Video Compare (to check export errors, differences, etc) https://github.com/pftq/Video-Compare
 - MP4 Audio Delay Fix (20ms delay at start of file) https://github.com/pftq/MP4-Audio-Delay-Fix
