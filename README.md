@@ -14,6 +14,8 @@ This is a tool I built for myself after having to deal with versions of the same
 
 An additional plus feature is it'll also match the color grading, contrast, slight sizing/position differences, etc.  It also supports references where the input video is shorter or a subset of the video you're trying to fix.  You can also drop a single frame as input to match color/sizing to.
 
+Update 2026/11/17: This is now functionally the same app as VideoColorMatch but with different defaults catered to correcting out of sync frames, but if you have VideoColorMatch it already can do everything this app does (and vice versa) [https://github.com/pftq/Video-Frame-Sync](https://github.com/pftq/VideoColorMatch) 
+
 <img width="803" height="684" alt="image" src="https://github.com/user-attachments/assets/966529a9-af7a-41d4-908c-ad3dd86feea6" />
 
 <img width="772" height="55" alt="image" src="https://github.com/user-attachments/assets/8a502651-0fef-4679-8a2a-f3a78b18c86f" />
