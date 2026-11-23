@@ -19,6 +19,7 @@ An additional plus feature is it'll also match the color grading, contrast, slig
 Update 2026/11/17: 
 - This is now functionally the same app as VideoColorMatch but with different defaults catered to correcting out of sync frames, but if you have VideoColorMatch it already can do everything this app does (and vice versa) [https://github.com/pftq/Video-Frame-Sync](https://github.com/pftq/VideoColorMatch)
 - I also gave an option to ignore if the reference and edit clips are not close matches for color matching, so this can now be used to match color grading/noise to a completely different scene.
+- For both WAN VACE and Seedance, I've also created a more all-in-one tool [Video Mask](https://github.com/pftq/Video-Mask) which includes fast easy masking to do and merge back edits which also includes the frame-syncing and color correction.
 
 <img width="803" height="684" alt="image" src="https://github.com/user-attachments/assets/966529a9-af7a-41d4-908c-ad3dd86feea6" />
 
