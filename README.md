@@ -6,6 +6,7 @@ You may also find these useful (one-click to download all [here](https://drive.g
 • [Video Debanding](https://github.com/pftq/Video-Debanding) (fixes quality issues with repeat re-processing/compression)\
 • [Video Compare](https://github.com/pftq/Video-Compare) (to check export errors, differences, etc)\
 • [MP4 Audio Delay Fix](https://github.com/pftq/MP4-Audio-Delay-Fix) (20ms delay at start of file)\
+• [Video Mask](https://github.com/pftq/Video-Mask) (mask, sync, color-correct, and merge changes in one tool)\
 • [Video Color Match](https://github.com/pftq/VideoColorMatch) (correcting color grading drift)\
 • [Video Splicer](https://github.com/pftq/Video-Splicer) (trim or join MP4s without re-encoding)\
 • [Screencaps Generator](https://github.com/pftq/Screencaps-Generator) (smart screencaps selection + gallery grid sheet)\
